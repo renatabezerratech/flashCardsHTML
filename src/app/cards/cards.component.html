@@ -1,0 +1,21 @@
+<div class="fundo">
+    <div class="flashcards">
+        <p>Placar: {{contAcerto}}/{{contCards}}</p>
+
+        <label>    
+            <div class="flashcard" [class.flipped]="flipped" (click)="toggle()">
+                <div class="front">
+                  <p class="textoCard">{{frente}}</p>
+                </div>
+                <div class="back"> <p class="textoCard">{{verso}}</p> </div>
+            </div>
+        </label>
+        
+        <div class="buttonDiv">
+            <button (click)="certo()">Certo</button> 
+            <button (click)="errado()">Errado</button> 
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,20 @@
+{
+    "cards": [
+        {
+            "F": "Quais são as tags estruturais básicas do HTML?",
+            "V": "São as tags de abertura e fechamento da área de documentação chamada cabeçalho <head></head> e da área onde será codificada a parte visível do código, chamada corpo <body></body>."
+        },
+        {
+            "F": "Quais são as tags semânticas do html?",
+            "V": "<header>, <main>, <nav>, <section>, <article>, <aside>, <blockquote>, <footer>"
+        },
+        {
+            "F": "Quais são as tags de formatação html?",
+            "V": "<strong>, <em>, <u>, <sup>, <sub>, <code>, <pre>, <abbr>, <q>."
+        },
+        {
+            "F": "valor frente 4",
+            "V": "valor verso 4"
+        }
+    ]
+}
