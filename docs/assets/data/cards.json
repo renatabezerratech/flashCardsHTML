@@ -13,8 +13,15 @@
             "V": "<strong>, <em>, <u>, <sup>, <sub>, <code>, <pre>, <abbr>, <q>."
         },
         {
-            "F": "valor frente 4",
-            "V": "valor verso 4"
+            "F": "Quando falamos de desenvolvimento WEB, o que é uma API ?",
+            "V": "API é um conjunto de métodos usados para que a comunicação com o navegador seja possível."
+        }
+        {
+            "F": "O que é DOM ?",
+            "V": "O DOM é usado na WEB para permitir que o código que está rodando no navegador interaja com cada nó do documento html."
+        }{
+            "F": "",
+            "V": ""
         }
     ]
 }
